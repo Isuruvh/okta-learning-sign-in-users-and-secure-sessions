@@ -29,7 +29,7 @@
     "labs"
   ],
   "dependencies": {
-    "brace-expansion": "^1.1.12",
+    "brace-expansion": "^1.1.21",
     "concurrently": "^7.3.0",
     "cross-spawn": "^7.0.5",
     "ejs": "^4.0.1",
